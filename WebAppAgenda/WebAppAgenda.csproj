@@ -16,18 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Include="Migrations\20221018170406_InitialPerson.cs" />
-    <Compile Include="Migrations\20221018170406_InitialPerson.Designer.cs" />
-    <Compile Include="Migrations\20221018230632_UpdateAddress.cs" />
-    <Compile Include="Migrations\20221018230632_UpdateAddress.Designer.cs" />
-    <Compile Include="Migrations\20221018231141_UpdatePhone.cs" />
-    <Compile Include="Migrations\20221018231141_UpdatePhone.Designer.cs" />
-    <Compile Include="Migrations\20221018231255_UpdatePhoneList.cs" />
-    <Compile Include="Migrations\20221018231255_UpdatePhoneList.Designer.cs" />
-    <Compile Include="Migrations\20221018231422_UpdatePersonPhone.cs" />
-    <Compile Include="Migrations\20221018231422_UpdatePersonPhone.Designer.cs" />
-    <Compile Include="Migrations\20221018231734_ControllerPhone.cs" />
-    <Compile Include="Migrations\20221018231734_ControllerPhone.Designer.cs" />
+    <Compile Include="Migrations\20221019191340_InitialCreate.cs" />
+    <Compile Include="Migrations\20221019191340_InitialCreate.Designer.cs" />
     <Compile Include="Migrations\WebAppAgendaContextModelSnapshot.cs" />
   </ItemGroup>
 
@@ -46,5 +36,7 @@
     <Folder Include="Utils\" />
     <Folder Include="Service\" />
   </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
 
 </Project>
